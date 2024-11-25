@@ -42,6 +42,7 @@ function Gallery() {
 
         <center>
         <div>
+            
             <h1>Tour Selection</h1>
             <ul>
                 {tours.map(tour => (
